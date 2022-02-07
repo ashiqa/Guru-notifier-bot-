@@ -13,7 +13,7 @@ curr_date = raw_TS.strftime("%d-%m-%Y")
 curr_time = raw_TS.strftime("%H:%M:%S") #24Hr
 
 # Auth for telegram bot 
-telegram_auth_token = "5285918762:AAHtv2YsSeq4PlQ6EdghkVbY0fYAGUveIb4"                      
+telegram_auth_token = ""                      
 # Telegram group name
 telegram_group_id = "technocrats_notify"
 
